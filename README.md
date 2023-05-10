@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Istiyaq.</h1>
-<h3 align="center">Aspiring Computer Science and Engineering student.Passionate about coding, problem-solving, and software development | Eager to learn and contribute to innovative projects.</h3>
+<h3 align="center">Aspiring Computer Science and Engineering student|Passionate about coding, problem-solving, and software development | Eager to learn and contribute to innovative projects.</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
 
