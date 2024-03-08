@@ -9,8 +9,6 @@
 
 ###
 <img align="right" height="150" src="giphy.gif"  />
-###
-###
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
